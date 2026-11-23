@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "strict": true,
+    "noEmit": true
+  },
+  "include": ["*.ts", "numbers/sum.ts", "numbers/swapNumbers.ts", "strings/stringUpperLower.ts", "numbers/secondLargest.ts", "strings/reverseText.ts", "numbers/reverseInteger.ts", "strings/removeDupChar.ts", "numbers/removeDuplicate.ts", "strings/removeSpaces.ts", "strings/reverseEachText.ts", "strings/primeNo.ts", "strings/palindrome.ts", "numbers/numberPrinting.ts", "numbers/moveZeroEnd.ts", "strings/longestWord.ts", "numbers/largestSmallest.ts", "strings/firstNonRepeat.ts", "strings/frequency.ts", "strings/countVowels.ts", "numbers/fibinociss.ts", "strings/dupNonDupString.ts", "numbers/descending.ts", "strings/countOnlyVowels.ts", "strings/countOnlyConsonants.ts", "numbers/countDigits.ts", "numbers/ascendingOrder.ts", "numbers/armStrong.ts", "strings/anagram.ts", "strings/arraySorted.ts", "strings/upperLowerCase.ts"]
+}
